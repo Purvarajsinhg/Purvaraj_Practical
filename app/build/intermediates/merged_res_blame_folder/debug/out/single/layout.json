@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.demo.app-mergeDebugResources-46:/layout/activity_login.xml",
+        "source": "com.demo.app-main-49:/layout/activity_login.xml"
+    }
+]
